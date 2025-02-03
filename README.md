@@ -30,11 +30,8 @@ Banking Domain Knowledge: Improved understanding of the banking sector, includin
 **How to Use**:
 To get started with the BankLoan Database, clone this repository and import the `bankloan_database.sql` file into your MySQL environment. Ensure you have MySQL installed and configured on your machine. Here are the steps to import the database:
 
-sql
-mysql -u your_username -p
-CREATE DATABASE bankloan_db;
-USE bankloan_db;
-SOURCE bankloan_database.sql;
+![image](https://github.com/user-attachments/assets/f9930df6-00a5-4537-a81b-2438bdc6ad61)
+
 
 **Coursework Details**
 
