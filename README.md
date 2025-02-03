@@ -1,4 +1,4 @@
-**  BankLoan Database**
+**BankLoan Database**********************************
 
 **ER Diagram**
 Below is the EntityRelationship (ER) diagram of the BankLoan Database. It highlights the structured relationships between different entities such as Branches, Customers, Accounts, Loans, Applications, and Staff. This diagram serves as a visual representation of the data model, aiding in understanding and navigating the database structure.
