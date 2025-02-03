@@ -27,8 +27,7 @@ Data Manipulation: Mastered the skills to create, insert, update, and delete tab
 Complex Queries: Developed the ability to construct and execute complex SQL queries that integrate multiple aspects of database interaction.
 Banking Domain Knowledge: Improved understanding of the banking sector, including customer management, loan approvals, and operational workflows.
 
-**How to Use
-**
+**How to Use**
 To get started with the BankLoan Database, clone this repository and import the `bankloan_database.sql` file into your MySQL environment. Ensure you have MySQL installed and configured on your machine. Here are the steps to import the database:
 
 sql
